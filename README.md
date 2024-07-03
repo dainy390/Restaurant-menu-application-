@@ -22,7 +22,4 @@ This is a responsive Restaurant web application built with HTML, CSS, JavaScript
 
 \- Fully responsive design for desktop, tablet, and mobile views.
 
-  
 
-\link of the website
-file:///C:/Users/dainy/AppData/Local/Temp/Rar$EXa15668.21324/Restaurantsolution/index.html
