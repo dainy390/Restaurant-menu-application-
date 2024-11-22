@@ -4,7 +4,7 @@
 
 This is a responsive Restaurant web application built with HTML, CSS, JavaScript, and Bootstrap. The application allows users to view, filter, and search menu items.
 
-  <a href="http://127.0.0.1:5500/index.html" style ="color:blue">LIVE DEMO</a>
+  <a href="https://admirable-klepon-70389d.netlify.app/">LIVE DEMO</a>
 
 \## Features
 
